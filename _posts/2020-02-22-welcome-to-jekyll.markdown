@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Newface!"
 date:   2020-02-22 19:07:14 +0900
 categories: jekyll update
 ---
