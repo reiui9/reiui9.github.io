@@ -4,92 +4,93 @@ title:  "Agreement to use personal information for Corona World"
 date:   2020-02-22 19:07:14 +0900
 categories: jekyll update
 ---
-**1\. Purpose of processing personal information** <뉴페이스>(‘https://reiui9.github.io’이하 ‘뉴페이스’) 은(는) 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.  
-- 고객 가입의사 확인, 고객에 대한 서비스 제공에 따른 본인 식별.인증, 회원자격 유지.관리, 물품 또는 서비스 공급에 따른 금액 결제, 물품 또는 서비스의 공급.배송 등  
+**1\. Purpose of processing personal information** <CoronaWorld>("Https://reiui9.github.io" or "CoronaWorld") processes personal information for the following purposes, and is not used for purposes other than the following.
+-Confirm customer's intention to sign up, identify and authenticate customers by providing services to customers, maintain and manage membership, settle payments based on supply of goods or services, supply and deliver goods or services, etc.
 
 **2\. Processing and retention period of personal information**  
 
-① <뉴페이스>(‘https://reiui9.github.io’이하 ‘뉴페이스’) 은(는) 정보주체로부터 개인정보를 수집할 때 동의 받은 개인정보 보유․이용기간 또는 법령에 따른 개인정보 보유․이용기간 내에서 개인정보를 처리․보유합니다.  
+① <CoronaWorld>('https://reiui9.github.io' or 'CoronaWorld') is within the retention and use period of personal information agreed upon when collecting personal information from an information subject, or within the retention and use period of personal information according to laws and regulations. Process and retain personal information.
 
-② 구체적인 개인정보 처리 및 보유 기간은 다음과 같습니다.  
-☞ 아래 예시를 참고하여 개인정보 처리업무와 개인정보 처리업무에 대한 보유기간 및 관련 법령, 근거 등을 기재합니다.  
-(예시)- 고객 가입 및 관리 : 서비스 이용계약 또는 회원가입 해지시까지, 다만 채권․채무관계 잔존시에는 해당 채권․채무관계 정산시까지  
-- 전자상거래에서의 계약․청약철회, 대금결제, 재화 등 공급기록 : 5년  
+② The specific personal information processing and retention period is as follows.
+☞ Refer to the example below and describe the retention period and related laws and rationale for personal information processing and personal information processing.
+(Example)-Customer subscription and management: Until the service use contract or membership termination, but if the bond-debt relationship remains, until the settlement of the bond / debt relationship
+-Supply records of contracts, subscription withdrawals, payments, and goods in e-commerce: 5 years
 
-**3\. 정보주체와 법정대리인의 권리·의무 및 그 행사방법 이용자는 개인정보주체로써 다음과 같은 권리를 행사할 수 있습니다.**
+**3\. Rights and obligations of the data subject and legal representatives and how to exercise them The user can exercise the following rights as a personal data subject.**
 
-① 정보주체는 뉴페이스(‘https://reiui9.github.io’이하 ‘뉴페이스) 에 대해 언제든지 다음 각 호의 개인정보 보호 관련 권리를 행사할 수 있습니다.  
-1\. 개인정보 열람요구  
-2\. 오류 등이 있을 경우 정정 요구  
-3\. 삭제요구  
-4\. 처리정지 요구
+① The data subject may exercise the following privacy rights at any time for CoronaWorld (“https://reiui9.github.io” or “CoronaWorld”).
+One\. Request to view personal information
+2\. If there is an error, request correction
+3 \. Delete request
+4\. Request to stop processing
 
 **4\. 처리하는 개인정보의 항목 작성**  
 
-① _<뉴페이스>('https://reiui9.github.io'이하 '뉴페이스')_은(는) 다음의 개인정보 항목을 처리하고 있습니다.
+① _<CoronaWorld>('https://reiui9.github.io' and 'CoronaWorld') _ handles the following personal information items.
 
-1<회원가입>  
-- 필수항목 : 이메일  
-- 선택항목 :
+1 <Sign up for membership>
+-Required: Email
+-Optional items:
 
-**5\. 개인정보의 파기_<뉴페이스>('뉴페이스')_은(는) 원칙적으로 개인정보 처리목적이 달성된 경우에는 지체없이 해당 개인정보를 파기합니다. 파기의 절차, 기한 및 방법은 다음과 같습니다.**
+**5\. 개인정보의 파기_<CoronaWorld>In principle, ('CoronaWorld') _ destroys personal information without delay when the purpose of processing personal information is achieved. The procedure, deadline and method of destruction are as follows.**
 
--파기절차  
-이용자가 입력한 정보는 목적 달성 후 별도의 DB에 옮겨져(종이의 경우 별도의 서류) 내부 방침 및 기타 관련 법령에 따라 일정기간 저장된 후 혹은 즉시 파기됩니다. 이 때, DB로 옮겨진 개인정보는 법률에 의한 경우가 아니고서는 다른 목적으로 이용되지 않습니다.  
+-Destruction procedure
+The information entered by the user is transferred to a separate DB after achieving the purpose (separate documents in the case of paper) and stored for a certain period of time according to the internal policy and other related laws or immediately destroyed. At this time, personal information transferred to the DB will not be used for any other purpose unless required by law. 
 
 -파기기한  
-이용자의 개인정보는 개인정보의 보유기간이 경과된 경우에는 보유기간의 종료일로부터 5일 이내에, 개인정보의 처리 목적 달성, 해당 서비스의 폐지, 사업의 종료 등 그 개인정보가 불필요하게 되었을 때에는 개인정보의 처리가 불필요한 것으로 인정되는 날로부터 5일 이내에 그 개인정보를 파기합니다.
+이Destroyed
+When the retention period of personal information has elapsed, the user's personal information must be completed within 5 days of the end date of the retention period. We destroy the personal information within 5 days from the date when it is deemed unnecessary.
 
-**6\. 개인정보 자동 수집 장치의 설치•운영 및 거부에 관한 사항**
+**6\. Matters concerning the installation, operation and rejection of automatic personal information collection devices**
 
-뉴페이스 은 정보주체의 이용정보를 저장하고 수시로 불러오는 ‘쿠키’를 사용하지 않습니다.  
+CoronaWorld does not use ‘cookies’ that store and retrieve information from the subject.  
 
-**7\. 개인정보 보호책임자 작성**
+**7\. Personal information protection officer**
 
-① 뉴페이스(‘https://reiui9.github.io’이하 ‘뉴페이스) 은(는) 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
+① CoronaWorld ('https://reiui9.github.io' or 'CoronaWorld) is responsible for the handling of personal information, and for the purpose of handling personal information complaints and remedy, We also designate the person responsible for protecting personal information.
 
-▶ 개인정보 보호책임자  
-성명 :이영인  
-직책 :사장  
-직급 :사장  
-연락처 :01025839153, reiui9@kakao.com,  
-※ 개인정보 보호 담당부서로 연결됩니다.  
+▶ Personal information protection officer
+Name: Lee Young-in
+Position: President
+Position: President
+Contact: 01025839153, reiui9@kakao.com,
+※ It leads to the department in charge of personal information protection.
 
-▶ 개인정보 보호 담당부서  
-부서명 :  
-담당자 :  
-연락처 :, ,  
-② 정보주체께서는 뉴페이스(‘https://reiui9.github.io’이하 ‘뉴페이스) 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. 뉴페이스(‘https://reiui9.github.io’이하 ‘뉴페이스) 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
+▶ Personal Information Protection Department
+Department :
+manager :
+Contact :, ,
+② The information subject protects all personal information related inquiries, complaints, and damage relief while using the service (or business) of CoronaWorld ('https://reiui9.github.io' or 'CoronaWorld)'. You can contact the person in charge and the department in charge. CoronaWorld ("https://reiui9.github.io" or "CoronaWorld") will answer and process information subject's inquiries without delay.
 
-**8\. 개인정보 처리방침 변경**
+**8\. Change of personal information processing policy**
 
-①이 개인정보처리방침은 시행일로부터 적용되며, 법령 및 방침에 따른 변경내용의 추가, 삭제 및 정정이 있는 경우에는 변경사항의 시행 7일 전부터 공지사항을 통하여 고지할 것입니다.
+①This personal information processing policy is applied from the effective date, and if there are additions, deletions, and corrections of changes in accordance with laws and policies, the notice will be notified through 7 days prior to the enforcement of the changes.
 
-**9\. 개인정보의 안전성 확보 조치 _<뉴페이스>('뉴페이스')_은(는) 개인정보보호법 제29조에 따라 다음과 같이 안전성 확보에 필요한 기술적/관리적 및 물리적 조치를 하고 있습니다.**
+**9\. Measures to secure the safety of personal information _ <CoronaWorld> ('CoronaWorld') _ undertakes the technical, administrative, and physical measures necessary to secure safety in accordance with Article 29 of the Personal Information Protection Act. ****
 
-1\. 정기적인 자체 감사 실시  
-개인정보 취급 관련 안정성 확보를 위해 정기적(분기 1회)으로 자체 감사를 실시하고 있습니다.  
+1\. Regular self-audit
+In order to secure stability related to handling personal information, we conduct self-audit on a regular basis (once a quarter).
 
-2\. 개인정보 취급 직원의 최소화 및 교육  
-개인정보를 취급하는 직원을 지정하고 담당자에 한정시켜 최소화 하여 개인정보를 관리하는 대책을 시행하고 있습니다.  
+2\. Minimization and training of personal information handling staff
+We are taking measures to manage personal information by designating and minimizing the number of employees who handle personal information.
 
-3\. 내부관리계획의 수립 및 시행  
-개인정보의 안전한 처리를 위하여 내부관리계획을 수립하고 시행하고 있습니다.  
+3 \. Establishment and implementation of internal management plan
+For the safe handling of personal information, we have established and implemented an internal management plan.
 
-4\. 해킹 등에 대비한 기술적 대책  
-<_뉴페이스_>('_뉴페이스_')은 해킹이나 컴퓨터 바이러스 등에 의한 개인정보 유출 및 훼손을 막기 위하여 보안프로그램을 설치하고 주기적인 갱신·점검을 하며 외부로부터 접근이 통제된 구역에 시스템을 설치하고 기술적/물리적으로 감시 및 차단하고 있습니다.  
+4\. Technical measures against hacking
+<_CoronaWorld _> ('_ CoronaWorld_') installs a security program, periodically updates and checks, and installs a system in a controlled area from outside to prevent personal information leakage and damage caused by hacking or computer viruses. With surveillance and blocking.
 
-5\. 개인정보의 암호화  
-이용자의 개인정보는 비밀번호는 암호화 되어 저장 및 관리되고 있어, 본인만이 알 수 있으며 중요한 데이터는 파일 및 전송 데이터를 암호화 하거나 파일 잠금 기능을 사용하는 등의 별도 보안기능을 사용하고 있습니다.  
+5 \. Encryption of personal information
+The user's personal information is stored and managed by encrypting the password, so only the user can know it, and important data uses separate security functions such as encrypting file and transmission data or using the file lock function.
 
-6\. 접속기록의 보관 및 위변조 방지  
-개인정보처리시스템에 접속한 기록을 최소 6개월 이상 보관, 관리하고 있으며, 접속 기록이 위변조 및 도난, 분실되지 않도록 보안기능 사용하고 있습니다.  
+6 \. Storage of access records and prevention of forgery
+We keep and manage records that have been connected to the personal information processing system for at least 6 months, and use security functions to prevent access records from being forged, stolen, or lost.
 
-7\. 개인정보에 대한 접근 제한  
-개인정보를 처리하는 데이터베이스시스템에 대한 접근권한의 부여,변경,말소를 통하여 개인정보에 대한 접근통제를 위하여 필요한 조치를 하고 있으며 침입차단시스템을 이용하여 외부로부터의 무단 접근을 통제하고 있습니다.  
+7 \. Restrict access to personal information
+We take necessary measures to control access to personal information through granting, changing, and canceling access rights to the database system that processes personal information, and control unauthorized access from the outside using an intrusion prevention system.
 
-8\. 문서보안을 위한 잠금장치 사용  
-개인정보가 포함된 서류, 보조저장매체 등을 잠금장치가 있는 안전한 장소에 보관하고 있습니다.  
+8\. Using a lock for document security
+We store documents containing personal information, auxiliary storage media, etc. in a safe place with a lock.
 
-9\. 비인가자에 대한 출입 통제  
-개인정보를 보관하고 있는 물리적 보관 장소를 별도로 두고 이에 대해 출입통제 절차를 수립, 운영하고 있습니다.
+9 \. Access control for unauthorized persons
+We have set up a separate physical storage location for personal information and established and operated access control procedures.
