@@ -24,7 +24,7 @@ One\. Request to view personal information
 3 \. Delete request
 4\. Request to stop processing
 
-**4\. 처리하는 개인정보의 항목 작성**  
+**4\. Create items of personal information to be processed**  
 
 ① _<CoronaWorld>('https://reiui9.github.io' and 'CoronaWorld') _ handles the following personal information items.
 
@@ -32,14 +32,13 @@ One\. Request to view personal information
 -Required: Email
 -Optional items:
 
-**5\. 개인정보의 파기_<CoronaWorld>In principle, ('CoronaWorld') _ destroys personal information without delay when the purpose of processing personal information is achieved. The procedure, deadline and method of destruction are as follows.**
+**5\. Destruction of personal information_<CoronaWorld>In principle, ('CoronaWorld') _ destroys personal information without delay when the purpose of processing personal information is achieved. The procedure, deadline and method of destruction are as follows.**
 
 -Destruction procedure
 The information entered by the user is transferred to a separate DB after achieving the purpose (separate documents in the case of paper) and stored for a certain period of time according to the internal policy and other related laws or immediately destroyed. At this time, personal information transferred to the DB will not be used for any other purpose unless required by law. 
 
--파기기한  
-이Destroyed
-When the retention period of personal information has elapsed, the user's personal information must be completed within 5 days of the end date of the retention period. We destroy the personal information within 5 days from the date when it is deemed unnecessary.
+-Destroyed term
+Destroyed When the retention period of personal information has elapsed, the user's personal information must be completed within 5 days of the end date of the retention period. We destroy the personal information within 5 days from the date when it is deemed unnecessary.
 
 **6\. Matters concerning the installation, operation and rejection of automatic personal information collection devices**
 
